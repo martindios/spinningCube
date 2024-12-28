@@ -2,6 +2,8 @@
 
 This project is a simple ASCII art spinning cube rendered in the terminal using C. The cube rotates in 3D space, and different faces of the cube are displayed using various ASCII characters and colors.
 
+![Spinning cube](gifCube.gif)
+
 ## Features
 
 - 3D rotation of a cube in the terminal.
